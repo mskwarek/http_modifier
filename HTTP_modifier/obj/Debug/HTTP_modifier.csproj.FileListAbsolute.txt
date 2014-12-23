@@ -1,0 +1,11 @@
+c:\users\malec\documents\visual studio 2013\Projects\HTTP_modifier\HTTP_modifier\bin\Debug\HTTP_modifier.exe.config
+c:\users\malec\documents\visual studio 2013\Projects\HTTP_modifier\HTTP_modifier\obj\Debug\HTTP_modifier.csprojResolveAssemblyReference.cache
+c:\users\malec\documents\visual studio 2013\Projects\HTTP_modifier\HTTP_modifier\obj\Debug\HTTP_modifier.Form1.resources
+c:\users\malec\documents\visual studio 2013\Projects\HTTP_modifier\HTTP_modifier\obj\Debug\HTTP_modifier.Properties.Resources.resources
+c:\users\malec\documents\visual studio 2013\Projects\HTTP_modifier\HTTP_modifier\obj\Debug\HTTP_modifier.csproj.GenerateResource.Cache
+c:\users\malec\documents\visual studio 2013\Projects\HTTP_modifier\HTTP_modifier\bin\Debug\HTTP_modifier.exe
+c:\users\malec\documents\visual studio 2013\Projects\HTTP_modifier\HTTP_modifier\bin\Debug\HTTP_modifier.pdb
+c:\users\malec\documents\visual studio 2013\Projects\HTTP_modifier\HTTP_modifier\bin\Debug\FiddlerCore.dll
+c:\users\malec\documents\visual studio 2013\Projects\HTTP_modifier\HTTP_modifier\bin\Debug\FiddlerCore.xml
+c:\users\malec\documents\visual studio 2013\Projects\HTTP_modifier\HTTP_modifier\obj\Debug\HTTP_modifier.exe
+c:\users\malec\documents\visual studio 2013\Projects\HTTP_modifier\HTTP_modifier\obj\Debug\HTTP_modifier.pdb
